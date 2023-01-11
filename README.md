@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Abonia1/abonia1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- ### Hi there, I'm Abonia Sojasingarayar👋
+  ![](https://komarev.com/ghpvc/?username=abonia1&color=green)  
+  [![Website](https://img.shields.io/website?label=abonia1&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/aboniasojasingarayar/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AboniaJesse)
 
-### Markdown
+## I'm a Author,  Data Scientist, AI Researcher, Quantum Machine learning Practitioner  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abonia1/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    🔭 I am Currently working as Machine learning & Data Scientist 
 
-```markdown
-Syntax highlighted code block
+    🌱 I’m currently Learning Quantum Machine learning😎.
 
-# Header 1
-## Header 2
-### Header 3
+    📚 I use to review books and learn about new tools to optimize my everyday  work.
 
-- Bulleted
-- List
+    👯 I’m collaborator in Pytorch, keras, tensorflow, data analysis, and looking for more collaboration.
 
-1. Numbered
-2. List
+    🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, etc and practice Quantum Computing.
 
-**Bold** and _Italic_ and `Code` text
+    ⚡ Fun fact: I love to code and solving problems. Love problems 💪
 
-[Link](url) and ![Image](src)
-```
+ ---
+  <div>
+  <b>My GitHub Stats</b><br />
+    <a href="http://www.github.com/abonia1"><img src="https://github-readme-stats.vercel.app/api?username=abonia1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abonia1's GitHub stats" /></a>
+    <a href="http://www.github.com/abonia1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abonia1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="http://www.github.com/abonia1"><img src="https://activity-graph.herokuapp.com/graph?username=abonia1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    <a href="https://github.com/abonia1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abonia1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>
+  
+   ## ⚡ Technologies I use 
+    <div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/python.jpeg" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/jupyter.png" width="65px"/>
+                <br /> Jupyter
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/tensorflow.png" width="65px"/>
+                <br /> TensorFlow
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/pytorch.png" width="65px"/>
+                <br /> Pytorch
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                <br /> Scikit Learn
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/fastapi.png" width="65px"/>
+                <br /> FastAPI
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/docker.png" width="65px"/>
+                <br /> Docker
+            </td>
+        </tr>
+    </table>
+    </div>
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Important Repository
 
-### Jekyll Themes
+💾 Chatbot - [🔗](https://github.com/Abonia1/Seq2Seq-Chatbot)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abonia1/abonia1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Thanks for visit my profile.***
