@@ -67,7 +67,7 @@
 
 ### Important Repository
 
-💾 Chatbot - [🔗](https://github.com/Abonia1/Seq2Seq-Chatbot)
+💾 Seq2seq AI Chatbot with attention mechanism - [🔗](https://github.com/Abonia1/Seq2Seq-Chatbot)
 
 ---
 
