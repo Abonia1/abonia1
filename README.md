@@ -5,7 +5,8 @@
   [![Website](https://img.shields.io/website?label=abonia1&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/aboniasojasingarayar/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AboniaJesse)
 
-## I'm a Author,  Data Scientist, AI Researcher, Quantum Machine learning Practitioner  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abonia1/)
+## I'm a Author,  Data Scientist, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision Enginee, AI Analyst, Technical Writer, Quantum Machine learning Practitioner  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abonia1/)[![Medium Articles](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@abonia)
+
 
     🔭 I am Currently working as Machine learning & Data Scientist 
 
