@@ -20,7 +20,7 @@
 
     👯 I’m collaborator of opensource ML projects and looking for more collaboration.
 
-    🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, etc and practice Quantum Computing.
+    🥅 2024 Goals: Dive deeper into the realms of Computer Vision, Deep Learning, NLP, and Time Series Analysis, while also delving into the fascinating world of Quantum Computing. I aim to conduct extensive applied research, transforming innovative ideas into production-ready solutions that make a tangible impact on real-world challenges.
 
     ⚡ Fun fact: I love to code and solving problems. Love problems 💪
 
