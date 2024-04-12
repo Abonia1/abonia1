@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Abonia Sojasingarayar👋
   ![](https://komarev.com/ghpvc/?username=abonia1&color=green)  
-   [![Website](https://img.shields.io/website?label=abonia.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://www.linkedin.com/in/aboniasojasingarayar/](https://abonia1.github.io/))
+   [![Website](https://img.shields.io/website?label=abonia.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abonia1.github.io/)
   [![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/aboniasojasingarayar/)
  [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abonia) &nbsp; [![Google Scholar](https://img.shields.io/badge/googlescholar-%230077B5.svg?style=for-the-badge&logo=Googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7xvZwnsAAAAJ&hl=en)
    [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AboniaJesse)
