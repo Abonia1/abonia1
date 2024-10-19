@@ -11,7 +11,7 @@
    [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AboniaJesse)
    
 
-## I'm an Author,  Data Scientist, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision Engineer, AI Analyst, Technical Writer, Quantum Machine learning Practitioner
+## I'm an Author,  Data Scientist, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision Engineer, AI Analyst, Technical Writer
 
 
     🔭 I am Currently working as Machine learning Engineer & Data Scientist 
